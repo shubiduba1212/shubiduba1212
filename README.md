@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=JYEJYE%20SPACE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=JYEJYE%20SPACE&fontSize=90&fontColor=333333)
 
 :mailbox_with_mail: JYEJYE 
 <a href="dldks1212@gmail.com">
