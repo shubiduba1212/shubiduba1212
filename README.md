@@ -14,9 +14,9 @@
   <div>
     <h2>🛠Stack</h2>
     <img src="https://img.shields.io/badge/JAVA-brown?style=for-the-badge&logo=coffeescript&logoColor=white">
-     <img src="https://img.shields.io/badge/HTM5L-red?style=for-the-badge&logo=html5script&logoColor=white">
-     <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3script&logoColor=white">
-     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=css3script&logoColor=white">
+     <img src="https://img.shields.io/badge/HTM5L-red?style=for-the-badge&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   </div>
 </div>
 
