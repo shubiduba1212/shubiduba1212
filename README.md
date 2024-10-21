@@ -18,6 +18,7 @@
      <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
      <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/Flutter-lavender?style=for-the-badge&logo=flutter&logoColor=white">
   </div>
 </div>
 
